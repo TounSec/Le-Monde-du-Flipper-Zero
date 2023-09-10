@@ -10,4 +10,13 @@ title: About
 
 </br>
 
-I'm **🦀TounSec🦀**, A French passionate about cybersecurity with particular attention to low-level, I am looking to specialize in _Reverse Engineering and Cryptography_.
+I'm **🦀TounSec🦀**, A French passionate about cybersecurity with particular attention to low-level, I am looking to specialize in _Reverse Engineering and Cryptography_, you can contact me using the information below.
+
+</br>
+
+### **📧Contact📧**
+
+- [LinkedIn](https://www.linkedin.com/in/louis-balasse/)
+- [𝕏](https://twitter.com/Hackethique1)
+- [Email](mailto:tounsec-cyber@proton.me)
+- [Discord](https://discord.com/users/280654626360000513)

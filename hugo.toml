@@ -61,3 +61,33 @@ unsafe = true
 name = 'Flipper Zero Official'
 description = "Flipper Zero is a portable multi-tool for pentesters and geeks in a toy-like body. It loves hacking digital stuff, such as radio protocols, access control systems, hardware and more. It's fully open-source and customizable, so you can extend it in whatever way you like."
 url = 'https://flipperzero.one/'
+
+[[params.myprojects]]
+name = 'Awesome Flipper Zero'
+description = "🐬 A collection of awesome resources for the Flipper Zero device."
+url = 'https://github.com/djsime1/awesome-flipperzero'
+
+[[params.myprojects]]
+name = 'Unleashed'
+description = "Unlocked firmware with rolling codes support & community plugins, stable tweaks and games."
+url = 'https://github.com/DarkFlippers/unleashed-firmware'
+
+[[params.myprojects]]
+name = 'RogueMaster'
+description = "Fork of Unleashed firmware with custom graphics, expérimental tweaks, community plugins and games."
+url = 'https://github.com/RogueMaster/flipperzero-firmware-wPlugins'
+
+[[params.myprojects]]
+name = 'Xtreme'
+description = "Official fork with cleaned up codebase, more module extensions and custom assets."
+url = 'https://github.com/ClaraCrazy/Flipper-Xtreme'
+
+[[params.myprojects]]
+name = 'SquareWare'
+description = "Fork of official firmware which adds custom graphics, community applications and files."
+url = 'https://github.com/skizzophrenic/SquachWare-CFW'
+
+[[params.myprojects]]
+name = 'OpenHaystack BLE mod'
+description = "Very old PoC that makes Flipper Zero behave like an AirTag"
+url = 'https://github.com/AlexStrNik/flipperzero-firmware'

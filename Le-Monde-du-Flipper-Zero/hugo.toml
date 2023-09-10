@@ -1,0 +1,63 @@
+sitename = "🪐Le Monde du Flipper Zéro🪐" 
+baseURL = "/"
+title = "🪐Le Monde du Flipper Zéro🪐"
+author = "🦀TounSec🦀"
+enableEmoji = true
+hasCJKLanguage = false
+pygmentsstyle = "tango"
+pygmentscodefences = true
+defaultContentLanguage = "fr"
+theme = "kaslaanka"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[languages]
+  [languages.en]
+  languageName = 'English'
+  title = '🪐The World of Flipper Zero🪐'
+  
+  [[languages.en.menu.primary]]
+  name = "Home"
+  url = "/en"
+  weight = 1
+
+  [[languages.en.menu.primary]]
+  name = "About"
+  url = "/en/about"
+  weight = 2
+
+  [languages.en.params]
+  sitename = "🪐The World of Flipper Zero🪐"
+  copyrights = "🦀TounSec🦀"
+  defaultList = "global"
+  paginationLen = 3
+  projectsURL = "https://github.com/TounSec"
+  brief_about = "<center>💡On this blog, you will find several articles and projects concerning the Flipper Zero💡</center>" 
+
+  [languages.fr]
+  languageName = 'Français'
+  title = "🪐Le Monde du Flipper Zéro🪐"
+
+  [[languages.fr.menu.primary]]
+  name = "Accueil"
+  url = "/"
+  weight = 1
+
+  [[languages.fr.menu.primary]]
+  name = "À propos"
+  url = "/about"
+  weight = 2
+
+  [languages.fr.params]
+  sitename = "🪐Le Monde du Flipper Zéro🪐"
+  copyrights = "🦀TounSec🦀"
+  defaultList = "global"
+  paginationLen = 3
+  projectsURL = "https://github.com/TounSec"
+  brief_about = "<center>💡Sur ce blog, vous trouverez plusieurs articles et projets, concernant le Flipper Zéro💡</center>"
+
+[[params.myprojects]]
+name = 'Flipper Zero Official'
+description = "Flipper Zero is a portable multi-tool for pentesters and geeks in a toy-like body. It loves hacking digital stuff, such as radio protocols, access control systems, hardware and more. It's fully open-source and customizable, so you can extend it in whatever way you like."
+url = 'https://flipperzero.one/'

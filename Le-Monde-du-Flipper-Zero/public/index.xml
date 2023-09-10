@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <title>🪐Le Monde du Flipper Zéro🪐</title>
+    <link>/</link>
+    <description>Recent content on 🪐Le Monde du Flipper Zéro🪐</description>
+    
+    <language>fr</language>
+    <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploration de l’outil Flipper Zéro : Un allié Puissant &amp; Polyvalent !</title>
+      <link>/post/art-1/</link><pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/art-1/</guid>
+      <description>Cet article est le premier d&amp;rsquo;une série dont le sujet, vous l&amp;rsquo;aurez deviné, est le Flipper Zéro.
+Les articles concernant mes recherches sur le Flipper Zéro seront rédigés en français et en anglais.
+Sommaire Introduction Présentation du Flipper Zéro Fonctionnalités du Flipper Zéro 🗝️ WiFi Dev Board 🗝️ Prototyping Board 🗝️ Fonctionnalités de base 🗝️ U2F (Universal 2nd Factor) 🗝️ Fréquence et analyseur de signaux 🗝️ Émulation de cartes RFID/NFC 🔎 RFID 🔎 NFC 🗝️ Contrôle d&amp;rsquo;appareils infrarouges 🗝️ BadUSB Avantages | Inconvénients 💪 Avantages 👎 Inconvénients Cas d&amp;rsquo;utilisation 🤝Conclusion🤝 Introduction Dans cet article, nous allons explorer les fonctionnalités du Flipper Zéro, un outil polyvalent qui trouve sa place dans le domaine de la cybersécurité et du prototypage IoT.</description>
+    </item>
+    
+    <item>
+      <title>À propos</title>
+      <link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Kanao Demon Slayer GIFfrom Kanao Demon Slayer GIFs Salut à tous !Moi c&amp;rsquo;est 🦀TounSec🦀, un français passionné de cybersécurité avec une attention particulière pour le bas niveau, je cherche à me spécialiser dans le Reverse Engineering et la Cryptographie.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <title>Posts on 🪐The World of Flipper Zero🪐</title>
+    <link>/en/post/</link>
+    <description>Recent content in Posts on 🪐The World of Flipper Zero🪐</description>
+    
+    <language>en</language>
+    <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploration of the Flipper Zero: A powerful &amp; Versatile ally !</title>
+      <link>/en/post/art-1/</link><pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/post/art-1/</guid>
+      <description>This article is the first in a series whose subject, you guessed it, is Flipper Zero.
+Articles concerning research into Flipper Zero will be written in French and English.
+Summary Introduction Presentation of Flipper Zero Features of Flipper Zero 🗝️ WiFi Dev Board 🗝️ Prototyping Board 🗝️Basic features 🗝️ U2F (Universal 2nd Factor) 🗝️Frequency and signal analyzer 🗝️ Card emulation RFID/NFC 🔎 RFID 🔎 NFC 🗝️ Control of infrared devices 🗝️ BadUSB Advantages | Disadvantages 💪 Advantages 👎 Disadvantages Use case 🤝Conclusion🤝 Introduction In this article, we will explore the features of Flipper Zero, a versatile tool that finds its place in the field of cybersecurity and IoT prototyping.</description>
+    </item>
+    
+  </channel>
+</rss>

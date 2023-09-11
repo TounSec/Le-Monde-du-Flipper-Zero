@@ -63,6 +63,11 @@ description = "Flipper Zero is a portable multi-tool for pentesters and geeks in
 url = 'https://flipperzero.one/'
 
 [[params.myprojects]]
+name = 'Flipper Zero Lab & App Store'
+description = "📱Official App Store of Flipper Zero"
+url = 'https://lab.flipper.net/apps'
+
+[[params.myprojects]]
 name = 'Awesome Flipper Zero'
 description = "🐬 A collection of awesome resources for the Flipper Zero device."
 url = 'https://github.com/djsime1/awesome-flipperzero'

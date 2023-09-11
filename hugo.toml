@@ -89,5 +89,40 @@ url = 'https://github.com/skizzophrenic/SquachWare-CFW'
 
 [[params.myprojects]]
 name = 'OpenHaystack BLE mod'
-description = "Very old PoC that makes Flipper Zero behave like an AirTag"
+description = "Very old PoC that makes Flipper Zero behave like an AirTag."
 url = 'https://github.com/AlexStrNik/flipperzero-firmware'
+
+[[params.myprojects]]
+name = 'My Flipper Shits'
+description = "Free and open-source [BadUSB] payloads for Flipper Zero."
+url = 'https://github.com/aleff-github/my-flipper-shits/'
+
+[[params.myprojects]]
+name = 'UNC0V3R3D BadUSB collection'
+description = "Yet another BadUSB collection."
+url = 'https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb'
+
+[[params.myprojects]]
+name = 'flipperzero-bruteforce'
+description = "Generate .sub files to brute force Sub-GHz OOK."
+url = 'https://github.com/tobiabocchi/flipperzero-bruteforce'
+
+[[params.myprojects]]
+name = 'UberGuidoZ Playground'
+description = "Large collection of files, documentation and dumps of all kinds"
+url = 'https://github.com/UberGuidoZ/Flipper'
+
+[[params.myprojects]]
+name = 'SerialHex2FlipperZeroInfrared'
+description = "Convert IR serial message into Flipper Zero compatible IR files."
+url = 'https://github.com/maehw/SerialHex2FlipperZeroInfrared'
+
+[[params.myprojects]]
+name = 'T119 bruteforcer'
+description = "Triggers Retekess T119 restaurant pagers."
+url = 'https://github.com/maehw/SerialHex2FlipperZeroInfrared'
+
+[[params.myprojects]]
+name = 'FlipperZero-Goodies'
+description = "Intercom keys and scripts"
+url = 'https://github.com/wetox-team/flipperzero-goodies'

@@ -64,7 +64,7 @@ url = 'https://flipperzero.one/'
 
 [[params.myprojects]]
 name = 'Flipper Zero Lab & App Store'
-description = "📱Official App Store of Flipper Zero"
+description = "📱Official App Store of Flipper Zero."
 url = 'https://lab.flipper.net/apps'
 
 [[params.myprojects]]
@@ -129,5 +129,10 @@ url = 'https://github.com/maehw/SerialHex2FlipperZeroInfrared'
 
 [[params.myprojects]]
 name = 'FlipperZero-Goodies'
-description = "Intercom keys and scripts"
+description = "Intercom keys and scripts."
 url = 'https://github.com/wetox-team/flipperzero-goodies'
+
+[[params.myprojects]]
+name = 'The controversy behind apple BLE spam'
+description = 'You might have seen the blog post that Techryptic made, or the news outlets crediting him for creating an "iPhone DDoS", or YouTube videos about the matter, or none of the former.'
+url = 'https://willyjl.dev/blog/the-controversy-behind-apple-ble-spam'
